@@ -1,2 +1,3 @@
 # Classificação do Tipo de Vinho com Machine Learning
 
+Este projeto em Python usa o algoritmo ExtraTreesClassifier para identificar se um vinho é tinto (0) ou branco (1) com base em dados químicos. O código transforma os textos da coluna de estilo em números, separa os dados em treino e teste, e ensina a inteligência artificial a adivinhar o tipo de vinho. O objetivo é criar um modelo automatizado capaz de acertar a categoria do vinho com alta precisão a partir de novas amostras.
